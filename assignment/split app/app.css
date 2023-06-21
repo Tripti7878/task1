@@ -1,0 +1,48 @@
+
+
+
+
+
+.container{
+    border: 1px solid black;
+     width: 30%;
+     box-sizing: border-box;
+     font-size: large;
+     border-radius: 7px;
+     text-align: center;
+     margin: 100px auto;
+    
+ }
+
+h1{
+    font-size: 40px;
+    text-align: center;
+}
+
+input{
+    padding: 10px;
+    width: 50%;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+button{
+    padding: 10px;
+    width: 100px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* p{
+    border: 2px solid black;
+    padding: 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 100px;
+    margin: 30px;
+    box-sizing: border-box;
+    border-radius: 5px;
+    background-color: plum;
+
+} */
